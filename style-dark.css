@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(58, 58, 60);
+    color: rgb(216, 216, 220);
+}
+
+#slider{
+    background-color: rgb(216, 216, 220);
+}
+
+#slider::before{
+    background-color: rgb(58, 58, 60);}
+
+.text-box{
+    background-color: rgb(235, 235, 240);
+}
+
+button{
+    background-color: rgb(188, 188, 192);
+}
